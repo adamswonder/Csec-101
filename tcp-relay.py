@@ -27,3 +27,5 @@ while True:
 # Clean up the sockets
 client_socket.close()
 server_socket.close()
+
+#TODO: Debug to make sure hosts connections don't close after successfull establishment
